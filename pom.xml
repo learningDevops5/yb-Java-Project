@@ -74,12 +74,12 @@
 	</build>
 <distributionManagement>
    <repository>
-      <id>nexus</id>
+      <id>Nexus</id>
       <name>nexus Repository</name>
       <url>13.232.24.10:8081/repository/YB-Tuts-Repo/</url>
    </repository>
              <snapshotRepository>
-             <id>nexus</id>
+             <id>Nexus</id>
              <name>nexus Snapshot Repository</name>
              <url>13.232.24.10:8081/repository/YB-Tuts-Repo/</url>
              </snapshotRepository>
