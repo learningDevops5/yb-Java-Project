@@ -81,7 +81,7 @@
              <snapshotRepository>
              <id>Nexus</id>
              <name>nexus Snapshot Repository</name>
-             <url>13.232.24.10:8081/repository/YB-Tuts-Repo/</url>
+             <url>13.232.24.10:8081/repository/YB-Tuts-Repo-Snapshot/</url>
              </snapshotRepository>
 </distributionManagement>
 </project>
